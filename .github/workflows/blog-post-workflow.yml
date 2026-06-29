@@ -1,0 +1,30 @@
+name: Latest blog post workflow
+
+# Injects the latest Dev.to posts into README.md between the
+# <!-- BLOG-POST-LIST:START --> / <!-- BLOG-POST-LIST:END --> markers.
+
+on:
+  schedule:
+    # Every 6 hours, on the hour. Our content cron publishes ~3x/week, so this
+    # picks up new posts within a few hours of publish.
+    - cron: "0 */6 * * *"
+  workflow_dispatch: # allow manual runs
+
+permissions:
+  contents: write # the action commits the updated README back to the repo
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest Dev.to posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull in Dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # Default template renders a clean "- [title](url)" markdown list.
+          feed_list: "https://dev.to/feed/diven_rastdus_c5af27d68f3"
+          max_post_count: 6
+          commit_message: "chore: refresh latest Dev.to posts in profile README"
