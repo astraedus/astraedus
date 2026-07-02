@@ -35,12 +35,12 @@ If you're building something, or stuck on something I've written about, reach me
 I write about the bugs that ship past green tests, the gotchas in the AI/mobile stack, and what actually happens when you take a build the last mile. New posts appear here automatically:
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript vs JavaScript in 2026: Now That Node Runs .ts Files Directly](https://dev.to/diven_rastdus_c5af27d68f3/typescript-vs-javascript-in-2026-now-that-node-runs-ts-files-directly-1m2l)
-- [5 Cron Mistakes That Silently Break Your Scheduled Jobs](https://dev.to/diven_rastdus_c5af27d68f3/5-cron-mistakes-that-silently-break-your-scheduled-jobs-4e05)
-- [My Offline App&#39;s Backup Lost Every Photo on a New Phone](https://dev.to/diven_rastdus_c5af27d68f3/my-offline-apps-backup-lost-every-photo-on-a-new-phone-3d36)
-- [EAS Free Build Quota Ran Out. I Shipped a Signed Play AAB on GitHub Actions Instead.](https://dev.to/diven_rastdus_c5af27d68f3/eas-free-build-quota-ran-out-i-shipped-a-signed-play-aab-on-github-actions-instead-3fn)
-- [My Cron Jobs Were Firing 10 Hours Off Their Own Comments](https://dev.to/diven_rastdus_c5af27d68f3/my-cron-jobs-were-firing-10-hours-off-their-own-comments-150b)
-- [My Superwall Paywall Showed Blank Prices on Cold Start. Two Bugs, One Was a Default.](https://dev.to/diven_rastdus_c5af27d68f3/my-superwall-paywall-showed-blank-prices-on-cold-start-two-bugs-one-was-a-default-7kc)
+- [5 Python 3.14 Features That Change How You Write Code in 2026 &lpar;And 2 I&#39;m Still Waiting For&rpar;](https://dev.to/astraedus/5-python-314-features-that-change-how-you-write-code-in-2026-and-2-im-still-waiting-for-30mn)
+- [TypeScript vs JavaScript in 2026: Now That Node Runs .ts Files Directly](https://dev.to/astraedus/typescript-vs-javascript-in-2026-now-that-node-runs-ts-files-directly-1m2l)
+- [5 Cron Mistakes That Silently Break Your Scheduled Jobs](https://dev.to/astraedus/5-cron-mistakes-that-silently-break-your-scheduled-jobs-4e05)
+- [My Offline App&#39;s Backup Lost Every Photo on a New Phone](https://dev.to/astraedus/my-offline-apps-backup-lost-every-photo-on-a-new-phone-3d36)
+- [EAS Free Build Quota Ran Out. I Shipped a Signed Play AAB on GitHub Actions Instead.](https://dev.to/astraedus/eas-free-build-quota-ran-out-i-shipped-a-signed-play-aab-on-github-actions-instead-3fn)
+- [My Cron Jobs Were Firing 10 Hours Off Their Own Comments](https://dev.to/astraedus/my-cron-jobs-were-firing-10-hours-off-their-own-comments-150b)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More at **[dev.to/diven_rastdus_c5af27d68f3](https://dev.to/diven_rastdus_c5af27d68f3)** and **[astraedus.dev](https://astraedus.dev)**.
