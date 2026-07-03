@@ -35,7 +35,7 @@ If you're building something, or stuck on something I've written about, reach me
 I write about the bugs that ship past green tests, the gotchas in the AI/mobile stack, and what actually happens when you take a build the last mile. New posts appear here automatically:
 
 <!-- BLOG-POST-LIST:START -->
-- [We Built an AI Astrologer That Actually Remembers You. Here&#39;s What It Took.](https://dev.to/astraedus/we-built-an-ai-astrologer-that-actually-remembers-you-heres-what-it-took-5a1h)
+- [5 New LLM API Features in 2026 &lpar;And 2 I&#39;m Still Waiting For&rpar;](https://dev.to/astraedus/5-new-llm-api-features-in-2026-and-2-im-still-waiting-for-4f0)
 - [5 Python 3.14 Features That Change How You Write Code in 2026 &lpar;And 2 I&#39;m Still Waiting For&rpar;](https://dev.to/astraedus/5-python-314-features-that-change-how-you-write-code-in-2026-and-2-im-still-waiting-for-30mn)
 - [TypeScript vs JavaScript in 2026: Now That Node Runs .ts Files Directly](https://dev.to/astraedus/typescript-vs-javascript-in-2026-now-that-node-runs-ts-files-directly-1m2l)
 - [5 Cron Mistakes That Silently Break Your Scheduled Jobs](https://dev.to/astraedus/5-cron-mistakes-that-silently-break-your-scheduled-jobs-4e05)
