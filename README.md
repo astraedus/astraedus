@@ -35,12 +35,12 @@ If you're building something, or stuck on something I've written about, reach me
 I write about the bugs that ship past green tests, the gotchas in the AI/mobile stack, and what actually happens when you take a build the last mile. New posts appear here automatically:
 
 <!-- BLOG-POST-LIST:START -->
+- [SoulSync is now on Google Play: a free, no-account, offline mood tracker](https://dev.to/astraedus/soulsync-is-now-on-google-play-a-free-no-account-offline-mood-tracker-20gp)
 - [5 New LLM API Features in 2026 &lpar;And 2 I&#39;m Still Waiting For&rpar;](https://dev.to/astraedus/5-new-llm-api-features-in-2026-and-2-im-still-waiting-for-4f0)
 - [5 Python 3.14 Features That Change How You Write Code in 2026 &lpar;And 2 I&#39;m Still Waiting For&rpar;](https://dev.to/astraedus/5-python-314-features-that-change-how-you-write-code-in-2026-and-2-im-still-waiting-for-30mn)
 - [TypeScript vs JavaScript in 2026: Now That Node Runs .ts Files Directly](https://dev.to/astraedus/typescript-vs-javascript-in-2026-now-that-node-runs-ts-files-directly-1m2l)
 - [5 Cron Mistakes That Silently Break Your Scheduled Jobs](https://dev.to/astraedus/5-cron-mistakes-that-silently-break-your-scheduled-jobs-4e05)
 - [My Offline App&#39;s Backup Lost Every Photo on a New Phone](https://dev.to/astraedus/my-offline-apps-backup-lost-every-photo-on-a-new-phone-3d36)
-- [EAS Free Build Quota Ran Out. I Shipped a Signed Play AAB on GitHub Actions Instead.](https://dev.to/astraedus/eas-free-build-quota-ran-out-i-shipped-a-signed-play-aab-on-github-actions-instead-3fn)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More at **[dev.to/diven_rastdus_c5af27d68f3](https://dev.to/diven_rastdus_c5af27d68f3)** and **[astraedus.dev](https://astraedus.dev)**.
