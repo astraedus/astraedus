@@ -35,12 +35,12 @@ If you're building something, or stuck on something I've written about, reach me
 I write about the bugs that ship past green tests, the gotchas in the AI/mobile stack, and what actually happens when you take a build the last mile. New posts appear here automatically:
 
 <!-- BLOG-POST-LIST:START -->
+- [The AI Agents Gotcha That Breaks Production &lpar;And How to Fix It&rpar;](https://dev.to/astraedus/the-ai-agents-gotcha-that-breaks-production-and-how-to-fix-it-5a15)
 - [Mood Trackers Without a Subscription &lpar;Free, No Paywall&rpar;](https://dev.to/astraedus/mood-trackers-without-a-subscription-free-no-paywall-3291)
 - [The Best Open-Source Mood Trackers for Android &lpar;2026&rpar;](https://dev.to/astraedus/the-best-open-source-mood-trackers-for-android-2026-a1p)
 - [A Mood Tracker With No Account, Private By Default](https://dev.to/astraedus/a-mood-tracker-with-no-account-private-by-default-14jp)
 - [AI Agents vs a Single LLM Call: Which Should You Use in 2026](https://dev.to/astraedus/ai-agents-vs-a-single-llm-call-which-should-you-use-in-2026-5amj)
 - [5 New React Native 2026 Features &lpar;And 2 I&#39;m Still Waiting For&rpar;](https://dev.to/astraedus/5-new-react-native-2026-features-and-2-im-still-waiting-for-2j0o)
-- [SoulSync is now on Google Play: a free, no-account, offline mood tracker](https://dev.to/astraedus/soulsync-is-now-on-google-play-a-free-no-account-offline-mood-tracker-20gp)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More at **[dev.to/diven_rastdus_c5af27d68f3](https://dev.to/diven_rastdus_c5af27d68f3)** and **[astraedus.dev](https://astraedus.dev)**.
