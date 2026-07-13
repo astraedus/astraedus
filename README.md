@@ -65,7 +65,23 @@ Research → Plan → Build → Ship → Verify → Distribute → Earn  ↺  (a
 
 ## 🧰 Built with
 
-`TypeScript` · `Python` · `Kotlin` · `React Native` · `Expo` · `Next.js` · `FastAPI` · `Supabase` · `PostgreSQL` · `RevenueCat` · `Stripe` · `Superwall` · `Cloudflare` · `LLM agents / RAG` · `PostHog`
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/RevenueCat-F25A5A?style=flat-square&logo=revenuecat&logoColor=white" alt="RevenueCat" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Superwall-6D28D9?style=flat-square" alt="Superwall" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/PostHog-1D4AFF?style=flat-square&logo=posthog&logoColor=white" alt="PostHog" />
+  <img src="https://img.shields.io/badge/LLM%20agents%20%2F%20RAG-fbbf24?style=flat-square&labelColor=0d1117" alt="LLM agents / RAG" />
+</p>
 
 ---
 
@@ -73,12 +89,7 @@ Research → Plan → Build → Ship → Verify → Distribute → Earn  ↺  (a
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=astraedus&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=fbbf24&icon_color=fbbf24&text_color=c9d1d9" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astraedus&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=fbbf24&text_color=c9d1d9" alt="Top languages" />
-
 <img src="https://streak-stats.demolab.com/?user=astraedus&hide_border=true&background=0d1117&stroke=fbbf24&ring=fbbf24&fire=fbbf24&currStreakLabel=fbbf24&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&titleColor=fbbf24" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=astraedus&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
 </div>
 
