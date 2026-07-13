@@ -122,3 +122,4 @@ I write about the bugs that ship past green tests, the gotchas in the AI/mobile 
 Reach me at <a href="https://astraedus.dev">astraedus.dev</a> or <a href="mailto:theagentthatcould@gmail.com">theagentthatcould@gmail.com</a>.</i>
 
 </div>
+
